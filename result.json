@@ -1,0 +1,665 @@
+{
+    "me": {
+        "name": "Dani Varga",
+        "email": "dani.varga@lumenanalytics.com"
+    },
+    "folders": {
+        "Inbox": "AQMkADyq28_-yQOBEqVkL8FeWqZ96HI_INANAs",
+        "Processing": "AQMkADCmPdmqCpBCC-8H981UEbGDysqcsxUM8Z",
+        "Done": "AQMkADpMPtBKlaPaFKnSNcg9hovtfA9Fz38_qn"
+    },
+    "emails": [
+        {
+            "id": "AAMkADt1LZ-8IxptxBkRYgsQXmZGOvzqXCZzG1h3_m8_g65VC9PeoPyG3nkdlLissWmWlpbYPLeWGhkpuA3DbTxPOsnZfcwXYUXwsqgRUEbvdsg-Vp9ADbfWzC1wMJsSEWrsfm",
+            "subject": "Topics for our upcoming check-in",
+            "body": "Hi Dani,\n\nBefore we talk next week, two things I'd like to add to the agenda:\n\n1. The API delivery on our side is slipping by about two weeks. I'd like to discuss how that affects your timeline and whether you can work against a mock in the meantime.\n2. Q4 budget: finance asked me to confirm whether the remaining Atlas work fits into the current budget or if we need a change request.\n\nIf you could bring a rough estimate for point 2 that would be great.\n\nCheers,\nMark",
+            "sender": {
+                "name": "Mark Johnson",
+                "email": "mark.johnson@brightfieldretail.com"
+            },
+            "received": "2026-10-08T06:57:44Z",
+            "meeting": null,
+            "categories": [
+                "info_request"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEAD8wHs2",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                }
+            ],
+            "cc": [
+                {
+                    "name": "Kata Nagy",
+                    "email": "kata.nagy@lumenanalytics.com"
+                }
+            ]
+        },
+        {
+            "id": "AAMkADlkrcINznYsBk-V6kYSarMz4RcNmSkixwmQTpQwQzUtYL27SjfReLsd9tKtL11Za8GodN8P_9ier3u9kBGlP_84aWg4AvSIEFiQCUAI44hG3nXCu72B4_9mXezYcjUUHb",
+            "subject": "Out of office next week",
+            "body": "Hi everyone,\n\nReminder that I'm on holiday all of next week with no laptop. For anything design-related that can't wait, please reach out to Kata.\n\nSara",
+            "sender": {
+                "name": "Sara Tóth",
+                "email": "sara.toth@lumenanalytics.com"
+            },
+            "received": "2026-10-08T04:57:44Z",
+            "meeting": null,
+            "categories": [
+                "other"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEAC3vNe6",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                },
+                {
+                    "name": "Kata Nagy",
+                    "email": "kata.nagy@lumenanalytics.com"
+                },
+                {
+                    "name": "Tom Becker",
+                    "email": "tom.becker@lumenanalytics.com"
+                },
+                {
+                    "name": "Lilla Horváth",
+                    "email": "lilla.horvath@lumenanalytics.com"
+                },
+                {
+                    "name": "Peter Szabó",
+                    "email": "peter.szabo@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        },
+        {
+            "id": "AAMkADR7tYQy6UI3J5xnCLVJ3TKF3tbJ5NGKL9WXem65_wx2LotMwKlnIuB5vuFqFsF9GP9vh8F7CxULYlLdZ4V0nicv2K8XFOX5PqB4obfM5HLqpXBW8tQnwa9cvutwd0MU89",
+            "subject": "Dashboard v2 mockups – feedback needed",
+            "body": "Hi Dani,\n\nAttached are the mockups for the Brightfield dashboard v2 (12 screens). Before I go on holiday I need from you:\n\n- Your go/no-go on the overall layout direction\n- Which 3 screens we should prioritize for the first release\n- Whether the filter panel should be on the left or on top (Mark mentioned both in different calls)\n\nCould you get back to me by the end of this week? Otherwise the team can't start UI work in the next sprint.\n\nThanks,\nSara",
+            "sender": {
+                "name": "Sara Tóth",
+                "email": "sara.toth@lumenanalytics.com"
+            },
+            "received": "2026-10-08T03:57:44Z",
+            "meeting": null,
+            "categories": [
+                "info_request"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEABm4Tp8",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                }
+            ],
+            "cc": [
+                {
+                    "name": "Kata Nagy",
+                    "email": "kata.nagy@lumenanalytics.com"
+                }
+            ]
+        },
+        {
+            "id": "AAMkADm6r9wjXPqFCqXi97N4Jit22Q0kUP5YlMckf9LVBMebCWHqCVWp0rN1p0kDhFfnKROZO5d8SsWA0ief2LVzl44tslPjXv6o9kunXZjfg5HSzoGBB2DT__RQFqsf5iHpbm",
+            "subject": "RE: Atlas Sprint Planning",
+            "body": "Hi Kata,\n\nAhead of the planning, a few things so we don't spend the meeting on them:\n\nBacklog: I groomed the Ready column, there are 9 stories, total ~34 points. The big one is ATL-212 (store-level export), I'd split it into backend and UI parts.\n\nBlockers:\n- The Brightfield API still has no sandbox, so ATL-205 can't be tested end-to-end\n- We need final mockups for the filter panel before UI work can start\n\nCapacity: I'm out one day next sprint for a conference.\n\nTom\n\n-----Original Message-----\nFrom: Kata Nagy\nSubject: Atlas Sprint Planning\n\nPlanning for the next Atlas sprint. Please come with your estimates for the stories in the 'Ready' column.",
+            "sender": {
+                "name": "Tom Becker",
+                "email": "tom.becker@lumenanalytics.com"
+            },
+            "received": "2026-10-08T01:57:44Z",
+            "meeting": null,
+            "categories": [
+                "meeting"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEABAtL5s",
+            "to": [
+                {
+                    "name": "Kata Nagy",
+                    "email": "kata.nagy@lumenanalytics.com"
+                }
+            ],
+            "cc": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                },
+                {
+                    "name": "Lilla Horváth",
+                    "email": "lilla.horvath@lumenanalytics.com"
+                },
+                {
+                    "name": "Sara Tóth",
+                    "email": "sara.toth@lumenanalytics.com"
+                }
+            ]
+        },
+        {
+            "id": "AAMkADMbauJ4CUhcCPIu_tjQgDADwR2lBqw_FEB_eGLZ-MMQ4lLcqw1Tnvxioy4_qcjlFsdATyIaGHUC1PZZYK5rux74KFSfh72NYiPEyJndQpy_9gjT4-yXtDGQPkZeFAcV1R",
+            "subject": "Staging DB access + which dataset?",
+            "body": "Hi Dani,\n\nI want to start validating the new demand forecast model against real-ish data, but I'm blocked on two things:\n\n1. I still don't have read access to the staging Postgres (atlas_staging). Who should approve it, you or Peter?\n2. Which dataset should I validate on: the full 2025 sales export, or the cleaned Q2 sample Tom prepared?\n\nAlso, do we have a target accuracy number from Brightfield, or should I just report MAPE and we decide later?\n\nThanks!\nLilla",
+            "sender": {
+                "name": "Lilla Horváth",
+                "email": "lilla.horvath@lumenanalytics.com"
+            },
+            "received": "2026-10-08T00:57:44Z",
+            "meeting": null,
+            "categories": [
+                "info_request"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEADr2Kc5",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        },
+        {
+            "id": "AAMkAD-QipRQf4Izgo8x8G6ySF2gQyl2fjHolZrqskh1UnF_H8vZYXvP7c1sjGBuUmSs8gXXJrciYLkGj4Y3jIdQ_5RXmGCMAGXT1jnb_lzLdUNT5hkacw-BY6M-uvH12rP001",
+            "subject": "Heads-up: staging maintenance Thursday night",
+            "body": "Hi,\n\nThe staging cluster will be down on Thursday between 22:00 and 02:00 for a Kubernetes version upgrade. Nothing to do on your side, just don't schedule test runs against staging in that window.\n\nPeter",
+            "sender": {
+                "name": "Peter Szabó",
+                "email": "peter.szabo@lumenanalytics.com"
+            },
+            "received": "2026-10-07T23:57:44Z",
+            "meeting": null,
+            "categories": [
+                "other"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEABc7Hn0",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                },
+                {
+                    "name": "Tom Becker",
+                    "email": "tom.becker@lumenanalytics.com"
+                },
+                {
+                    "name": "Lilla Horváth",
+                    "email": "lilla.horvath@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        },
+        {
+            "id": "AAMkADXcGdFFFJb-bxGnn_fyFV_LiWHaDj0jOhDrzb4rfhthbo33ya1P_4neVrDoW9K-Y6XInypnppsXFjL2Jh37_gTAuLz__Zhr2FIXHE99JZbtdL6LlMsYQGyBiRTYQKRmZr",
+            "subject": "Great demo last week",
+            "body": "Hi Dani,\n\nJust wanted to say thanks for the Atlas demo last week. Our regional managers especially liked the store-level drill-down. I shared the recording internally and the feedback has been very positive.\n\nKeep up the good work!\n\nMark",
+            "sender": {
+                "name": "Mark Johnson",
+                "email": "mark.johnson@brightfieldretail.com"
+            },
+            "received": "2026-10-07T12:57:44Z",
+            "meeting": null,
+            "categories": [
+                "other"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEAB9sYt1",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                }
+            ],
+            "cc": [
+                {
+                    "name": "Kata Nagy",
+                    "email": "kata.nagy@lumenanalytics.com"
+                }
+            ]
+        },
+        {
+            "id": "AAMkADp3AOwthT6jVj1OWpUTSFwG6llLch03bnPGos7RsAOSNbJ5lCN0ALXnFbFDZPNy5A_2nla9FlLCM7BcBBvc0PKccX89SJw0AOWUqUL8-gzwT7nUgNK8VfjGyBEoF1DZqA",
+            "subject": "Brightfield Client Check-in",
+            "body": "Hi Dani, Kata,\n\nSetting up our regular check-in on the Atlas project.\n\nThanks,\nMark\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting\nMeeting ID: 417 038 662 190\nPasscode: Qx8vR3\n________________________________________________________________________________",
+            "sender": {
+                "name": "Mark Johnson",
+                "email": "mark.johnson@brightfieldretail.com"
+            },
+            "received": "2026-10-07T11:57:44Z",
+            "meeting": {
+                "start": "2026-10-13T14:00:00.0000000",
+                "end": "2026-10-13T14:45:00.0000000",
+                "location": "Microsoft Teams Meeting",
+                "organizer": {
+                    "name": "Mark Johnson",
+                    "email": "mark.johnson@brightfieldretail.com"
+                },
+                "attendees": [
+                    {
+                        "name": "Dani Varga",
+                        "email": "dani.varga@lumenanalytics.com",
+                        "type": "required"
+                    },
+                    {
+                        "name": "Kata Nagy",
+                        "email": "kata.nagy@lumenanalytics.com",
+                        "type": "required"
+                    }
+                ]
+            },
+            "categories": [
+                "meeting"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEAD0cQn4",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                },
+                {
+                    "name": "Kata Nagy",
+                    "email": "kata.nagy@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        },
+        {
+            "id": "AAMkADrB-6sfRea4eo_M86MnIjPqD8Cak7dD-J8jlvWs-2idftkFX8vW3lqyXJT3Yvy9tBYVN6jrrfhEnzM4D6Axdr6poNtI3IcpFcGzSikMXZbaX31xwFM8rvxKQJZilYYRI4",
+            "subject": "PR #482: retry logic for the export job",
+            "body": "Hi Dani,\n\nI opened PR #482 which adds exponential backoff to the nightly export job, so it stops failing when the Brightfield API is slow. Tests are green.\n\nNo rush, whenever you get to it this week is fine.\n\nTom",
+            "sender": {
+                "name": "Tom Becker",
+                "email": "tom.becker@lumenanalytics.com"
+            },
+            "received": "2026-10-07T09:57:44Z",
+            "meeting": null,
+            "categories": [
+                "other"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEACk9Wm2",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        },
+        {
+            "id": "AAMkADUS5HnYNZAfbDW38KKz6Tt243n5YDc2ZCnReza5gyrDVeze1tmM-WEs9lIwiqTQfw2E1EaPvttvOvrakMEvI2ASAZ3TrsXMPYtDqVHWSY74bYSBekM67m_6_ge_a1GrVB",
+            "subject": "Helios Migration — Postmortem / Lessons Learned",
+            "body": "Hi team,\n\nNow that the Helios cutover is done, let's do a blameless postmortem while it's still fresh.\n\nI'd like to cover:\n- Timeline of the cutover weekend\n- The 3-hour data sync delay on Saturday and its root cause\n- What we'd do differently for the next migration\n\nPlease add anything else you noticed to the shared doc before the meeting.\n\nPeter\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting\nMeeting ID: 291 557 038 442\nPasscode: Lm3pW9\n________________________________________________________________________________",
+            "sender": {
+                "name": "Peter Szabó",
+                "email": "peter.szabo@lumenanalytics.com"
+            },
+            "received": "2026-10-07T07:57:44Z",
+            "meeting": {
+                "start": "2026-10-14T13:00:00.0000000",
+                "end": "2026-10-14T14:00:00.0000000",
+                "location": "Meeting room Danube / Microsoft Teams Meeting",
+                "organizer": {
+                    "name": "Peter Szabó",
+                    "email": "peter.szabo@lumenanalytics.com"
+                },
+                "attendees": [
+                    {
+                        "name": "Dani Varga",
+                        "email": "dani.varga@lumenanalytics.com",
+                        "type": "required"
+                    },
+                    {
+                        "name": "Tom Becker",
+                        "email": "tom.becker@lumenanalytics.com",
+                        "type": "required"
+                    },
+                    {
+                        "name": "Lilla Horváth",
+                        "email": "lilla.horvath@lumenanalytics.com",
+                        "type": "required"
+                    },
+                    {
+                        "name": "Kata Nagy",
+                        "email": "kata.nagy@lumenanalytics.com",
+                        "type": "optional"
+                    }
+                ]
+            },
+            "categories": [
+                "meeting",
+                "info_request"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEABHe1Ls",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                },
+                {
+                    "name": "Tom Becker",
+                    "email": "tom.becker@lumenanalytics.com"
+                },
+                {
+                    "name": "Lilla Horváth",
+                    "email": "lilla.horvath@lumenanalytics.com"
+                }
+            ],
+            "cc": [
+                {
+                    "name": "Kata Nagy",
+                    "email": "kata.nagy@lumenanalytics.com"
+                }
+            ]
+        },
+        {
+            "id": "AAMkADcnG4Sb8jQZ24owOdagXcZ0Onw_ag6lv7D4HoPnrgDDDXt5lH0l5g3DW4hHAFno9HR7_WsN0vrO5Wo1udpS4AU7BbNBpfx2q1mgt-eTrlAjlKjO0pazjSrRZGR-b_hkbM",
+            "subject": "PO number for invoice INV-2026-0918",
+            "body": "Hi Dani,\n\nOur finance team can't process invoice INV-2026-0918 (managed Kubernetes support, September) because the purchase order number is missing.\n\nCould you please send me:\n1. The PO number this invoice should be booked against\n2. The cost center, if it's different from last quarter\n3. Confirmation that the billing address is still Lumen Analytics Kft., 1061 Budapest, Andrássy út 12.\n\nWe'd like to close this before month end. The invoice is attached for reference.\n\nBest regards,\nEmma Clarke\nAccount Manager, CloudOps Inc",
+            "sender": {
+                "name": "Emma Clarke",
+                "email": "emma.clarke@cloudops-inc.com"
+            },
+            "received": "2026-10-07T05:57:44Z",
+            "meeting": null,
+            "categories": [
+                "info_request"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEAB2pRk7",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        },
+        {
+            "id": "AAMkADU2kCyxPtxnLufj-rPg4WRrhg1zTimvqEyw0Y-q7UEvXQNMUu_S0NqUNMER8HyPcxLlVcgZkh9ZankMr4IU1_GJ7zs_iH7K1x7hyGtRF_W33QdiYWtednxSH-x_Z3k9SW",
+            "subject": "Worth a read: feature stores in practice",
+            "body": "Hey both,\n\nFound a good write-up on how a few mid-size teams run feature stores without a dedicated platform team. A lot of it maps to what we're doing in Helios, especially the part about backfills.\n\nNothing urgent, just if you have 15 minutes over coffee.\n\nLilla",
+            "sender": {
+                "name": "Lilla Horváth",
+                "email": "lilla.horvath@lumenanalytics.com"
+            },
+            "received": "2026-10-07T03:57:44Z",
+            "meeting": null,
+            "categories": [
+                "info_request"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEADf3Lq9",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                },
+                {
+                    "name": "Tom Becker",
+                    "email": "tom.becker@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        },
+        {
+            "id": "AAMkADru_lxcKLB9Fo7QJXS93jUFerFBQSWzuPxKt9hT6wYnXwAG6TQxFOa6ihoAVqqyJraAE4sDxbfB8Axc1RxUrqmZBmdOKGUa3gdJPHFsEeAAX4fxFQzIUHHkwZGtF-MDWs",
+            "subject": "Atlas Sprint Planning",
+            "body": "Planning for the next Atlas sprint. Please come with your estimates for the stories in the 'Ready' column.\n\nGoal: agree on the scope for the Brightfield dashboard v2 milestone.\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting\nMeeting ID: 384 221 907 615\nPasscode: aT7xQ2\n________________________________________________________________________________",
+            "sender": {
+                "name": "Kata Nagy",
+                "email": "kata.nagy@lumenanalytics.com"
+            },
+            "received": "2026-10-07T01:57:44Z",
+            "meeting": {
+                "start": "2026-10-12T09:00:00.0000000",
+                "end": "2026-10-12T10:30:00.0000000",
+                "location": "Microsoft Teams Meeting",
+                "organizer": {
+                    "name": "Kata Nagy",
+                    "email": "kata.nagy@lumenanalytics.com"
+                },
+                "attendees": [
+                    {
+                        "name": "Dani Varga",
+                        "email": "dani.varga@lumenanalytics.com",
+                        "type": "required"
+                    },
+                    {
+                        "name": "Tom Becker",
+                        "email": "tom.becker@lumenanalytics.com",
+                        "type": "required"
+                    },
+                    {
+                        "name": "Lilla Horváth",
+                        "email": "lilla.horvath@lumenanalytics.com",
+                        "type": "required"
+                    },
+                    {
+                        "name": "Sara Tóth",
+                        "email": "sara.toth@lumenanalytics.com",
+                        "type": "optional"
+                    }
+                ]
+            },
+            "categories": [
+                "meeting",
+                "info_request"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEABAtL5s",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                },
+                {
+                    "name": "Tom Becker",
+                    "email": "tom.becker@lumenanalytics.com"
+                },
+                {
+                    "name": "Lilla Horváth",
+                    "email": "lilla.horvath@lumenanalytics.com"
+                },
+                {
+                    "name": "Sara Tóth",
+                    "email": "sara.toth@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        },
+        {
+            "id": "AAMkADhaa4qZcKClKBLJYJSMK4KBwmczCEg9-p292sJrZsWZDL2NfVjKlrxK7VWJmPDNHM3CW0QWF0JTRDYn50ez38VCng34MPLmc9j9CUq7qNTBIUFXgfVBMXp7RVUsUkahWr",
+            "subject": "Sprint 14 retro notes",
+            "body": "Hi all,\n\nThanks for the retro yesterday. Short summary for the record:\n\nWent well:\n- The new CI pipeline cut build times roughly in half\n- Fewer interruptions thanks to the support rotation\n\nTo improve:\n- Stories were too big again, three of them rolled over\n- Design handoffs came late in the sprint\n\nAction items:\n- Split anything above 5 points before planning (everyone)\n- Sara to share mockups at least 2 days before planning\n\nNo need to reply, just FYI.\n\nKata",
+            "sender": {
+                "name": "Kata Nagy",
+                "email": "kata.nagy@lumenanalytics.com"
+            },
+            "received": "2026-10-06T10:57:44Z",
+            "meeting": null,
+            "categories": [
+                "other"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEAC8mQ2w",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                },
+                {
+                    "name": "Tom Becker",
+                    "email": "tom.becker@lumenanalytics.com"
+                },
+                {
+                    "name": "Lilla Horváth",
+                    "email": "lilla.horvath@lumenanalytics.com"
+                },
+                {
+                    "name": "Sara Tóth",
+                    "email": "sara.toth@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        },
+        {
+            "id": "AAMkADNVy7kXNkqv0t8WSkIPepQVlQhc0AwtNh2yvq4whXmWLHI7C_BqDndaR0us_8fxFQdiRGTufy0939NKJgIJwpaScUywZq9WbKhEHQ0Q-WAirY7l85N_pDzySLLwo_jKkO",
+            "subject": "Action required: your password expires in 5 days",
+            "body": "Hi Dani,\n\nYour Lumen Analytics account password will expire in 5 days. Please change it via the self-service portal before it expires to avoid losing access to email, VPN and Jira.\n\nIf you have any problems, open a ticket with the IT Helpdesk.\n\nThis is an automated message, please do not reply.",
+            "sender": {
+                "name": "IT Helpdesk",
+                "email": "it-helpdesk@lumenanalytics.com"
+            },
+            "received": "2026-10-06T08:57:44Z",
+            "meeting": null,
+            "categories": [
+                "other"
+            ],
+            "status": "Processing",
+            "conversation_id": "AAQkADk1NzQ5MjEtYjI3Ny00ZTRmLWJkYzQtMDAxPWdIT1kAEABzHk2p",
+            "to": [
+                {
+                    "name": "Dani Varga",
+                    "email": "dani.varga@lumenanalytics.com"
+                }
+            ],
+            "cc": []
+        }
+    ],
+    "info_requests": [
+        {
+            "requester": {
+                "name": "Mark Johnson",
+                "email": "mark.johnson@brightfieldretail.com"
+            },
+            "subject": "Topics for our upcoming check-in",
+            "items": [
+                "impact on timeline due to API delivery delay",
+                "rough estimate for Q4 budget regarding remaining Atlas work"
+            ],
+            "deadline": "before the check-in meeting"
+        },
+        {
+            "requester": {
+                "name": "Sara Tóth",
+                "email": "sara.toth@lumenanalytics.com"
+            },
+            "subject": "Dashboard v2 mockups – feedback needed",
+            "items": [
+                "go/no-go decision on the overall layout direction for the Brightfield dashboard v2",
+                "prioritized list of 3 screens for the first release of the Brightfield dashboard v2",
+                "decision on the position of the filter panel for the Brightfield dashboard v2"
+            ],
+            "deadline": "by the end of this week"
+        },
+        {
+            "requester": {
+                "name": "Lilla Horváth",
+                "email": "lilla.horvath@lumenanalytics.com"
+            },
+            "subject": "Staging DB access + which dataset?",
+            "items": [
+                "approval for read access to the staging Postgres (atlas_staging)",
+                "dataset for validation: full 2025 sales export or cleaned Q2 sample",
+                "target accuracy number from Brightfield"
+            ],
+            "deadline": null
+        },
+        {
+            "requester": {
+                "name": "Peter Szabó",
+                "email": "peter.szabo@lumenanalytics.com"
+            },
+            "subject": "Helios Migration — Postmortem / Lessons Learned",
+            "items": [
+                "Timeline of the cutover weekend",
+                "Root cause of the 3-hour data sync delay on Saturday",
+                "Notes for what to do differently for the next migration",
+                "Additional observations for the shared document"
+            ],
+            "deadline": "before the Helios Migration postmortem meeting"
+        },
+        {
+            "requester": {
+                "name": "Emma Clarke",
+                "email": "emma.clarke@cloudops-inc.com"
+            },
+            "subject": "PO number for invoice INV-2026-0918",
+            "items": [
+                "PO number for invoice INV-2026-0918",
+                "cost center for invoice INV-2026-0918",
+                "confirmation of billing address for invoice INV-2026-0918"
+            ],
+            "deadline": "before month end"
+        },
+        {
+            "requester": {
+                "name": "Kata Nagy",
+                "email": "kata.nagy@lumenanalytics.com"
+            },
+            "subject": "Atlas Sprint Planning",
+            "items": [
+                "estimates for the stories in the 'Ready' column for the Atlas sprint"
+            ],
+            "deadline": "before the Atlas Sprint Planning meeting"
+        }
+    ],
+    "summaries": [
+        {
+            "summary": "Sara will be on holiday next week with no laptop; contact Kata for urgent design-related matters.",
+            "sender": {
+                "name": "Sara Tóth",
+                "email": "sara.toth@lumenanalytics.com"
+            },
+            "subject": "Out of office next week"
+        },
+        {
+            "summary": "The staging cluster will be down Thursday from 22:00 to 02:00 for a Kubernetes upgrade; avoid scheduling test runs during this time.",
+            "sender": {
+                "name": "Peter Szabó",
+                "email": "peter.szabo@lumenanalytics.com"
+            },
+            "subject": "Heads-up: staging maintenance Thursday night"
+        },
+        {
+            "summary": "Mark Johnson appreciated the Atlas demo last week, noting positive feedback from regional managers on the store-level drill-down feature.",
+            "sender": {
+                "name": "Mark Johnson",
+                "email": "mark.johnson@brightfieldretail.com"
+            },
+            "subject": "Great demo last week"
+        },
+        {
+            "summary": "Tom opened PR #482 to add exponential backoff to the nightly export job to prevent failures with the Brightfield API. Tests are green.",
+            "sender": {
+                "name": "Tom Becker",
+                "email": "tom.becker@lumenanalytics.com"
+            },
+            "subject": "PR #482: retry logic for the export job"
+        },
+        {
+            "summary": "Sprint 14 retro notes: CI pipeline halved build times; issues with large stories and late design handoffs. Action items for everyone and Sara.",
+            "sender": {
+                "name": "Kata Nagy",
+                "email": "kata.nagy@lumenanalytics.com"
+            },
+            "subject": "Sprint 14 retro notes"
+        },
+        {
+            "summary": "Your Lumen Analytics account password expires in 5 days; change it via the self-service portal to maintain access to email, VPN, and Jira.",
+            "sender": {
+                "name": "IT Helpdesk",
+                "email": "it-helpdesk@lumenanalytics.com"
+            },
+            "subject": "Action required: your password expires in 5 days"
+        }
+    ]
+}
